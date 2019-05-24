@@ -1,0 +1,239 @@
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.exe.config
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.exe
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\BusinessLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\HelperLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\BusinessLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\HelperLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.AracKiralamaSozlesmesi.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Calisan.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Giris.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Yonetici.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.exe
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.CalisanEkle.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.MusteriEkle.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.AracEkle.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracEkle.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracListesi.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.AracOzellikGor.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiCalisanListele.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracKiralayanlar.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiKiradaOlanAraclar.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiCalisanGuncelle.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracKiralama.resources
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.CalisanMusteriGüncelle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.exe.config
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.exe
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\BusinessLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\HelperLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\BusinessLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\HelperLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.AracEkle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.AracKiralamaSozlesmesi.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.AracOzellikGor.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Calisan.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.CalisanEkle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.CalisanMusteriGüncelle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Giris.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.MusteriEkle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracEkle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracKiralama.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracKiralayanlar.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracListesi.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiCalisanGuncelle.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiCalisanListele.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiKiradaOlanAraclar.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Yonetici.resources
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.exe
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.CalisanAracKiralama.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.exe.config
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.exe
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\AracTakipOtomasyonu.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\BusinessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\HelperLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\BusinessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\HelperLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.AracEkle.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.AracKiralamaSozlesmesi.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.AracOzellikGor.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Calisan.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.CalisanAracKiralama.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.CalisanEkle.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.CalisanMusteriGüncelle.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Giris.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.MusteriEkle.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracEkle.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracKiralama.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracKiralayanlar.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiAracListesi.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiCalisanGuncelle.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiCalisanListele.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiKiradaOlanAraclar.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Yonetici.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.exe
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiRapor.resources
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.exe.licenses
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\AracTakipOtomasyonu\obj\Debug\AracTakipOtomasyonu.Forms.YoneticiKiralamayiBitir.resources

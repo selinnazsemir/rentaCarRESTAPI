@@ -1,0 +1,51 @@
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll

@@ -1,0 +1,6 @@
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\bin\Release\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\bin\Release\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Release\ObjectLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Release\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Release\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Release\ObjectLayer.pdb

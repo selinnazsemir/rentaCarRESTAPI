@@ -1,0 +1,6 @@
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\HelperLayer\bin\Release\HelperLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\HelperLayer\bin\Release\HelperLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\HelperLayer\obj\Release\HelperLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\HelperLayer\obj\Release\HelperLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\HelperLayer\obj\Release\HelperLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\HelperLayer\obj\Release\HelperLayer.pdb

@@ -1,0 +1,9 @@
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Release\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\bin\Release\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\DataAccessLayer\obj\Release\DataAccessLayer.pdb

@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\bin\Release\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\bin\Release\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\BusinessLayer\obj\Release\BusinessLayer.pdb

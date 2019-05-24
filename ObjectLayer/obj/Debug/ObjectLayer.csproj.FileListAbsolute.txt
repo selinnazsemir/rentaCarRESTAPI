@@ -1,0 +1,17 @@
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\ObjectLayer\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\ObjectLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.dll
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\source\repos\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\ObjectLayer\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\ObjectLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\bin\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.dll
+C:\Users\MONSTER\Desktop\soa proje\AracTakipOtomasyonu\ObjectLayer\obj\Debug\ObjectLayer.pdb
